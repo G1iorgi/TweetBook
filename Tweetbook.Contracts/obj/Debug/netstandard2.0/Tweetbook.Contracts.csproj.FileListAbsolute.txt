@@ -1,0 +1,10 @@
+C:\Users\giorg\source\repos\TweetBook\Tweetbook.Contracts\bin\Debug\netstandard2.0\Tweetbook.Contracts.deps.json
+C:\Users\giorg\source\repos\TweetBook\Tweetbook.Contracts\bin\Debug\netstandard2.0\Tweetbook.Contracts.dll
+C:\Users\giorg\source\repos\TweetBook\Tweetbook.Contracts\bin\Debug\netstandard2.0\Tweetbook.Contracts.pdb
+C:\Users\giorg\source\repos\TweetBook\Tweetbook.Contracts\obj\Debug\netstandard2.0\Tweetbook.Contracts.csproj.AssemblyReference.cache
+C:\Users\giorg\source\repos\TweetBook\Tweetbook.Contracts\obj\Debug\netstandard2.0\Tweetbook.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giorg\source\repos\TweetBook\Tweetbook.Contracts\obj\Debug\netstandard2.0\Tweetbook.Contracts.AssemblyInfoInputs.cache
+C:\Users\giorg\source\repos\TweetBook\Tweetbook.Contracts\obj\Debug\netstandard2.0\Tweetbook.Contracts.AssemblyInfo.cs
+C:\Users\giorg\source\repos\TweetBook\Tweetbook.Contracts\obj\Debug\netstandard2.0\Tweetbook.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\giorg\source\repos\TweetBook\Tweetbook.Contracts\obj\Debug\netstandard2.0\Tweetbook.Contracts.dll
+C:\Users\giorg\source\repos\TweetBook\Tweetbook.Contracts\obj\Debug\netstandard2.0\Tweetbook.Contracts.pdb
